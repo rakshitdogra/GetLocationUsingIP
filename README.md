@@ -2,4 +2,4 @@
 
 
 # GetLocationUsingIP
-This codes provides the location of the device using IP address. 
+This code provides the estimated location and many other details of the device using IP address.
